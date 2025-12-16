@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaDc5ehTj70=",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\LIS.Demo\\LIS.API\\LIS.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
