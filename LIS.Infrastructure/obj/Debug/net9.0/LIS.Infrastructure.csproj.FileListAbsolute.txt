@@ -1,0 +1,16 @@
+D:\source\repos\LIS.Demo\LIS.Infrastructure\bin\Debug\net9.0\LIS.Infrastructure.deps.json
+D:\source\repos\LIS.Demo\LIS.Infrastructure\bin\Debug\net9.0\LIS.Infrastructure.dll
+D:\source\repos\LIS.Demo\LIS.Infrastructure\bin\Debug\net9.0\LIS.Infrastructure.pdb
+D:\source\repos\LIS.Demo\LIS.Infrastructure\bin\Debug\net9.0\LIS.Domain.dll
+D:\source\repos\LIS.Demo\LIS.Infrastructure\bin\Debug\net9.0\LIS.Domain.pdb
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.csproj.AssemblyReference.cache
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.AssemblyInfoInputs.cache
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.AssemblyInfo.cs
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.sourcelink.json
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infr.68BC6900.Up2Date
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.dll
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\refint\LIS.Infrastructure.dll
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\LIS.Infrastructure.pdb
+D:\source\repos\LIS.Demo\LIS.Infrastructure\obj\Debug\net9.0\ref\LIS.Infrastructure.dll

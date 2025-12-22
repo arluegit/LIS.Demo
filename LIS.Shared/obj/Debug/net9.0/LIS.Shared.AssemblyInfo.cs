@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LIS.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf637bd1df5a6c361aab61a3298df62a4a937f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIS.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIS.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

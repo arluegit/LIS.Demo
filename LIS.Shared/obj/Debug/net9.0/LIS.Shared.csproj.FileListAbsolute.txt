@@ -1,0 +1,12 @@
+D:\source\repos\LIS.Demo\LIS.Shared\bin\Debug\net9.0\LIS.Shared.deps.json
+D:\source\repos\LIS.Demo\LIS.Shared\bin\Debug\net9.0\LIS.Shared.dll
+D:\source\repos\LIS.Demo\LIS.Shared\bin\Debug\net9.0\LIS.Shared.pdb
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.AssemblyInfoInputs.cache
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.AssemblyInfo.cs
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.csproj.CoreCompileInputs.cache
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.sourcelink.json
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.dll
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\refint\LIS.Shared.dll
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\LIS.Shared.pdb
+D:\source\repos\LIS.Demo\LIS.Shared\obj\Debug\net9.0\ref\LIS.Shared.dll

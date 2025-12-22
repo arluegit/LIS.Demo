@@ -1,0 +1,16 @@
+D:\source\repos\LIS.Demo\LIS.Application\bin\Debug\net9.0\LIS.Application.deps.json
+D:\source\repos\LIS.Demo\LIS.Application\bin\Debug\net9.0\LIS.Application.dll
+D:\source\repos\LIS.Demo\LIS.Application\bin\Debug\net9.0\LIS.Application.pdb
+D:\source\repos\LIS.Demo\LIS.Application\bin\Debug\net9.0\LIS.Domain.dll
+D:\source\repos\LIS.Demo\LIS.Application\bin\Debug\net9.0\LIS.Domain.pdb
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.csproj.AssemblyReference.cache
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.AssemblyInfoInputs.cache
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.AssemblyInfo.cs
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.csproj.CoreCompileInputs.cache
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.sourcelink.json
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Appl.AFF9D9B7.Up2Date
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.dll
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\refint\LIS.Application.dll
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\LIS.Application.pdb
+D:\source\repos\LIS.Demo\LIS.Application\obj\Debug\net9.0\ref\LIS.Application.dll
