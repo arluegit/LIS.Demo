@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LIS.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf637bd1df5a6c361aab61a3298df62a4a937f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbfcb33f1fe7929d2a42de17e360ced3f9c04abb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIS.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIS.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

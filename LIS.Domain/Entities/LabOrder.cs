@@ -1,5 +1,4 @@
-﻿// Entities/LabOrder.cs
-using LIS.Domain.Enums;
+﻿using LIS.Domain.Enums;
 
 namespace LIS.Domain.Entities
 {

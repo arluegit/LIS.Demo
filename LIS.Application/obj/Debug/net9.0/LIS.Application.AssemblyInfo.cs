@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LIS.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca5b2566c500719b3b3c3ceef002efe54c7f982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbfcb33f1fe7929d2a42de17e360ced3f9c04abb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIS.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIS.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
